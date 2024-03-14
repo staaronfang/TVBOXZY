@@ -5,7 +5,8 @@
 "warningText":"接口完全免费，切勿付费购买。",
 "sites":[
 
-
+  
+{"key": "csp_豆瓣","name": "🌕禁售┃自用💢甲辰年","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
 {"key":"T4_douban","name":"影视推荐(T4)","type":4,"api":"https://t4.饭太硬.top/vod","searchable":1,"quickSearch":1,"filterable":1},
 
